@@ -2,7 +2,9 @@
 
 <h2>📚 Embedded System Lab GitHub Community Resources</h2>
 
-Selamat datang di Embedded System Lab `.github` repository! Repositori ini berfungsi sebagai pusat sumber daya bersama, pedoman laboratorium, standar dokumentasi, serta template proyek yang dirancang untuk mempermudah kolaborasi di lingkungan Laboratorium Embedded System dan komunitas akademik maupun riset yang terlibat baik di lingkungan Universitas Jenderal Soedirman maupun komunitas riset pada umumnya. Kami berkomitmen untuk menciptakan lingkungan yang inovatif, terstruktur, dan kolaboratif bagi mahasiswa, peneliti, serta kontributor yang tertarik dalam pengembangan sistem tertanam (Embedded Systems), Internet of Things (IoT), dan solusi perangkat keras cerdas.
+Selamat datang di Embedded System Lab `.github` repository! Repositori ini berfungsi sebagai pusat sumber daya bersama, pedoman laboratorium, standar dokumentasi, serta template proyek yang dirancang untuk mempermudah kolaborasi di lingkungan Laboratorium Embedded System dan komunitas akademik maupun riset yang terlibat baik di lingkungan Universitas Jenderal Soedirman maupun komunitas riset pada umumnya.
+
+Kami berkomitmen untuk menciptakan lingkungan yang inovatif, terstruktur, dan kolaboratif bagi mahasiswa, peneliti, serta kontributor yang tertarik dalam pengembangan sistem tertanam (Embedded Systems), Internet of Things (IoT), dan solusi perangkat keras cerdas.
 
 <h2>🎯 Tujuan dari Repositori</h2>
 Repositori <code>.github</code> merupakan fitur khusus GitHub yang membantu menstandarkan interaksi dan kolaborasi di seluruh proyek Laboratorium Embedded System serta komunitas pengembang yang terlibat. Repositori ini berisi berbagai sumber daya penting, antara lain:
